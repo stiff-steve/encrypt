@@ -1,0 +1,14 @@
+{
+    "name": "lan-chatroom",
+    "version": "1.0.0",
+    "description": "端到端加密局域网双人聊天室",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "ws": "^8.13.0"
+    }
+  }
+  
